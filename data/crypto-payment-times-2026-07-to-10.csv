@@ -1,0 +1,10 @@
+# Minutes from opening a payment window to a credited balance, real top-ups on nocthost.com, July to October 2026. p90 = 9 of 10 payments were credited faster.
+method,network,median_minutes,p90_minutes,note
+SOL,Solana,1.6,6.5,
+Card,Card (3-D Secure possible),2.3,21,for comparison
+ETH,Ethereum,2.4,2.9,
+USDT,BSC (BEP20),2.4,7.1,
+USDT,Tron (TRC20),2.6,12.2,
+USDT,Ethereum (ERC20),4.8,10.1,
+LTC,Litecoin,10,,small sample
+BTC,Bitcoin,16.5,42,
